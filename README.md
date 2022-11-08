@@ -6,4 +6,4 @@
 📧 Email: [from.module.import@gmail.com](mailto:from.module.import@gmail.com)
 <br>💬 Telegram: [Dmitry Romanov](https://t.me/lfwdev)
 ___
-![Gmail](mailto:from.module.import@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:from.module.import@gmail.com)
