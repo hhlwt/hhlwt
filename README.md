@@ -2,7 +2,7 @@
 <br>Passionate junior front-end developer with a desire to learn and grow in a collaborative team environment.
 <br>
 <br> 👨‍💻 I’m currently learning Typescript.
-<br> 🔎 Looking for work remotely or in the office in Moscow
+<br> 🔎 Looking for work remotely or in an office in Moscow
 ### Contact me
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lfwdev)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:from.module.import@gmail.com)
