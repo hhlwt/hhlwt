@@ -1,8 +1,3 @@
-### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" height="24px" alt="hi"> I'm Dmitry :)
-<br>Passionate junior front-end developer with a desire to learn and grow in a collaborative team environment.
-<br>
-<br> 👨‍💻 I’m currently learning Typescript.
-<br> 🔎 Looking for work remotely or in an office in Moscow
 ### Contact me
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lfwdev)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:from.module.import@gmail.com)
